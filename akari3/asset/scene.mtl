@@ -1,0 +1,23 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl bg
+diffuse 0.5 0.5 0.5
+specular 0.8 0.8 0.8
+specular_coefficient 10.0
+metalic 0.5
+endmtl
+
+newmtl plane
+diffuse 0.5 0.5 0.5
+specular 0.8 0.8 0.8
+specular_coefficient 10.0
+metalic 0.5
+endmtl
+
+newmtl light0
+diffuse 0.6 0.1 0.1
+specular 0 0 0
+specular_coefficient 100.0
+metalic 0.0
+endmtl
